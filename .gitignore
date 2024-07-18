@@ -1,0 +1,7 @@
+USER/USER.code-workspace
+OBJ/
+USER/.vscode
+USER/.pack
+USER/.eide
+USER/.cmsis
+USER/DebugConfig/
